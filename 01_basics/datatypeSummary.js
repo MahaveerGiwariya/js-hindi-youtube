@@ -2,7 +2,7 @@
 
 // 7 types : String,Number,Boolean, null,undefined,Symbol,BigInt
 
-// javascript is dynamic language  because in javasript no need of define datatype for which type of dat store in variable!
+// javascript is dynamic language  because in javasript no need of define datatype for which type of data store in variable!
 
 //javascript master = Objects,browser web event!
 const score = 100

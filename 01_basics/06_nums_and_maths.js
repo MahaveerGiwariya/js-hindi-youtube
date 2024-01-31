@@ -31,9 +31,7 @@ console.log(Math .floor(Math.random()*10) + 1); //
 const min = 10 // define 
 const max =20 // define
 
-console.log(Math.floor(Math.random() * (max - min + 1) )  // * 10 = (max -min +1) se kar diya,  +min(0 case avoid karne ke liya )
-
- + min)
-
+console.log(Math.floor(Math.random() * (max - min + 1) ) + min)
+ // * 10 = (max -min +1) se kar diya,  +min(0 case avoid karne ke liya )
 
 
